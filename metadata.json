@@ -1,0 +1,6 @@
+{
+  "name": "Thumbnail Scout AI",
+  "description": "AI Agent for YouTube Thumbnail Designers targeting US Real Estate creators — scanner, audit, natural human email outreach, and automated dispatch queue.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
